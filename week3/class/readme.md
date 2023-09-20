@@ -1,1 +1,1 @@
-[![옥토캣](./imgnumber1.png)]
+[![옥토캣](./img/number1.png)]
