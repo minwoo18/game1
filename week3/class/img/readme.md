@@ -1,1 +1,1 @@
-[프레젠테이션1.pptx](https://github.com/minwoo18/game1/files/12670315/1.pptx)
+[높은단위부터 출력, 낮은 단위부터 출력.pptx](https://github.com/minwoo18/game1/files/12670630/default.pptx)
